@@ -1,0 +1,13 @@
+C:\Users\alhama2\Desktop\Halogen\Halogen\bin\Debug\netcoreapp3.1\Halogen.exe
+C:\Users\alhama2\Desktop\Halogen\Halogen\bin\Debug\netcoreapp3.1\Halogen.deps.json
+C:\Users\alhama2\Desktop\Halogen\Halogen\bin\Debug\netcoreapp3.1\Halogen.runtimeconfig.json
+C:\Users\alhama2\Desktop\Halogen\Halogen\bin\Debug\netcoreapp3.1\Halogen.runtimeconfig.dev.json
+C:\Users\alhama2\Desktop\Halogen\Halogen\bin\Debug\netcoreapp3.1\Halogen.dll
+C:\Users\alhama2\Desktop\Halogen\Halogen\bin\Debug\netcoreapp3.1\Halogen.pdb
+C:\Users\alhama2\Desktop\Halogen\Halogen\obj\Debug\netcoreapp3.1\Halogen.csprojAssemblyReference.cache
+C:\Users\alhama2\Desktop\Halogen\Halogen\obj\Debug\netcoreapp3.1\Halogen.AssemblyInfoInputs.cache
+C:\Users\alhama2\Desktop\Halogen\Halogen\obj\Debug\netcoreapp3.1\Halogen.AssemblyInfo.cs
+C:\Users\alhama2\Desktop\Halogen\Halogen\obj\Debug\netcoreapp3.1\Halogen.csproj.CoreCompileInputs.cache
+C:\Users\alhama2\Desktop\Halogen\Halogen\obj\Debug\netcoreapp3.1\Halogen.dll
+C:\Users\alhama2\Desktop\Halogen\Halogen\obj\Debug\netcoreapp3.1\Halogen.pdb
+C:\Users\alhama2\Desktop\Halogen\Halogen\obj\Debug\netcoreapp3.1\Halogen.genruntimeconfig.cache
